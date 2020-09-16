@@ -4,7 +4,8 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'http://localhost:4000'
+  //apiUrl: 'http://localhost:4000'
+  apiUrl: 'https://snitt-test-v1.uc.r.appspot.com'
 };
 
 /*
